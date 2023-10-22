@@ -1,1 +1,1 @@
-# https://riyaparsai.github.io/Digital-Clock/
+# https://riyaparsai.github.io/BMI-Calculator/
